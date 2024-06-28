@@ -5,7 +5,12 @@
 
 
 ## Network Architecture
-![NetworkArchitecture](https://github.com/AirCL30/GLGFN/blob/main/images/NetworkArchitecture.png)
-## Results
+![NetworkArchitecture](https://github.com/YT3DVision/GLGFN/blob/main/images/NetworkArchitecture.png)
+## Quantitative Comparisons
+![QuantitativeComparisons](https://github.com/YT3DVision/GLGFN/blob/main/images/QuantitativeComparisons.png)
+## Memory Comparisons
+![MemoryComparisons](https://github.com/YT3DVision/GLGFN/blob/main/images/MemoryComparisons.png)
+## Runtime Comparisons
+![RuntimeComparisons](https://github.com/YT3DVision/GLGFN/blob/main/images/RuntimeComparisons.png)
 ## Inference results and pre-training models
 **Inference results and pre-training models are as follows: https://drive.google.com/drive/folders/1RyCR3BKSyzn9wNio8gfYVcm_0ZyM3lnk**
