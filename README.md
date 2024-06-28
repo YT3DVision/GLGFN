@@ -5,6 +5,7 @@
 
 
 ## Network Architecture
+![NetworkArchitecture](https://github.com/AirCL30/GLGFN/images/NetworkArchitecture.png)
 ## Results
 ## Inference results and pre-training models
 **Inference results and pre-training models are as follows: https://drive.google.com/drive/folders/1RyCR3BKSyzn9wNio8gfYVcm_0ZyM3lnk**
