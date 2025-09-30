@@ -13,4 +13,4 @@
 ## Runtime Comparisons
 ![RuntimeComparisons](https://github.com/YT3DVision/GLGFN/blob/main/images/RuntimeComparisons.png)
 ## Inference results and pre-training models
-**Inference results and pre-training models are as follows: https://drive.google.com/drive/folders/1RyCR3BKSyzn9wNio8gfYVcm_0ZyM3lnk**
+**Inference results and pre-training models are as follows: https://drive.google.com/drive/folders/1KZ-7bZq4Z_IwwF5BfUM6euWDeKVS0Vk_?usp=drive_link; https://drive.google.com/drive/folders/1RyCR3BKSyzn9wNio8gfYVcm_0ZyM3lnk**
